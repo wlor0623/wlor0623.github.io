@@ -8,7 +8,9 @@
 [https://webrtc.org/testing](http://www.webrtc.org/testing "Command-line flags for WebRTC testing")
 列出了命令行标志，这些标志对于使用 Chrome 开发和测试非常有用。
 
-## [getUserMedia():](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getUserMedia)
+## 设备
+
+[getUserMedia](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getUserMedia)
 
 访问媒体设备
 
@@ -20,15 +22,10 @@
 - [仅音频获取用户媒体并显示音量](https://webrtc.github.io/samples/src/content/getusermedia/volume/)
 - [录制流](https://webrtc.github.io/samples/src/content/getusermedia/record/)
 - [屏幕共享与获取显示媒体](https://webrtc.github.io/samples/src/content/getusermedia/getdisplaymedia/)
-
-## 设备:
-
-查询媒体设备
-
 - [选择摄像头、麦克风和扬声器](https://webrtc.github.io/samples/src/content/devices/input-output/)
 - [选择媒体源和音频输出](https://webrtc.github.io/samples/src/content/devices/multi/)
 
-## 捕获流:
+## 捕获流
 
 从画布或视频元素进行流式传输
 
@@ -39,7 +36,9 @@
 - [从画布元素录制流](https://webrtc.github.io/samples/src/content/capture/canvas-record/)
 - [使用内容提示指导视频编码](https://webrtc.github.io/samples/src/content/capture/video-contenthint/)
 
-## [RTC 对等连接:](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection)
+## RTC 对等连接
+
+[RTCPeerConnection](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection)
 
 控制对等连接
 
@@ -61,7 +60,9 @@
 - [Web 音频输出作为对等连接的输入](https://webrtc.github.io/samples/src/content/peerconnection/webaudio-input/)
 - [作为 Web 音频输入的对等连接](https://webrtc.github.io/samples/src/content/peerconnection/webaudio-output/)
 
-## [RTC 数据频道](https://developer.mozilla.org/en-US/docs/Web/API/RTCDataChannel)
+## RTC 数据频道
+
+[RTCDataChannel](https://developer.mozilla.org/en-US/docs/Web/API/RTCDataChannel)
 
 通过对等连接发送任意数据
 
@@ -76,6 +77,5 @@
 
 - [AppRTC 视频聊天](https://apprtc.appspot.com/) 客户端由谷歌应用程序引擎提供支持
 - [AppRTC URL 参数](https://apprtc.appspot.com/params.html)
-
 
 {docsify-updated}
