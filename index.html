@@ -69,19 +69,21 @@
   <script src="https://cdn.bootcss.com/docsify/4.11.2/plugins/search.min.js"></script>
   <script src="https://cdn.bootcss.com/docsify/4.11.2/plugins/emoji.min.js"></script>
   <script src="https://cdn.bootcss.com/docsify/4.11.2/plugins/zoom-image.min.js"></script>
-  <script src="//unpkg.com/docsify-copy-code"></script>
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="./assets/docsify-copy-code.min.js"></script>
   <script src="https://cdn.bootcss.com/vue/2.6.11/vue.min.js"></script>
   <script>
     // 评论组件
-    const gitalk = new Gitalk({
-      clientID: "8b4fccb08469da08eef3",
-      clientSecret: "db3ae463c7b5873b2b6ac5cefe88c37647059044",
-      repo: 'wlor0623.github.io',
-      owner: "wlor0623",
-      admin: ["wlor0623"],
-      id: md5(location.pathname),
-    })
+    if (location.href.indexOf("localhost") === -1) {
+      // 评论组件
+      let gitalk = new Gitalk({
+        clientID: "8b4fccb08469da08eef3",
+        clientSecret: "db3ae463c7b5873b2b6ac5cefe88c37647059044",
+        repo: 'wlor0623.github.io',
+        owner: "wlor0623",
+        admin: ["wlor0623"],
+        id: md5(location.pathname),
+      })
+    }
   </script>
 </body>
 

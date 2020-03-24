@@ -1,11 +1,11 @@
 # WebRTC 示例
 
-这是一些小示例的集合，展示了[WebRTC API]（https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API）的各个部分代码。
+这是一些小示例的集合，展示了[WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)的各个部分代码。
 示例可以在[GitHub 存储库](https://github.com/webrtc/samples)中找到。
 
 大多数示例都使用 [adapter.js](https://github.com/webrtc/adapter)，用来屏蔽各个游览器之间的差异。
 
-[https://webrtc.org/testing](http://www.webrtc.org/testing "Command-line flags for WebRTC testing")
+[https://webrtc.org/testing](http://www.webrtc.org/testing)
 列出了命令行标志，这些标志对于使用 Chrome 开发和测试非常有用。
 
 ## 设备
@@ -71,7 +71,7 @@
 - [传输数据](https://webrtc.github.io/samples/src/content/datachannel/datatransfer/)
 - [消息](https://webrtc.github.io/samples/src/content/datachannel/messaging/)
 
-## 视频聊天:
+## 视频聊天
 
 全功能 WebRTC 应用程序
 
