@@ -73,17 +73,14 @@
   <script src="https://cdn.bootcss.com/vue/2.6.11/vue.min.js"></script>
   <script>
     // 评论组件
-    if (location.href.indexOf("localhost") === -1) {
-      // 评论组件
-      let gitalk = new Gitalk({
-        clientID: "8b4fccb08469da08eef3",
-        clientSecret: "db3ae463c7b5873b2b6ac5cefe88c37647059044",
-        repo: 'wlor0623.github.io',
-        owner: "wlor0623",
-        admin: ["wlor0623"],
-        id: md5(location.pathname),
-      })
-    }
+    let gitalk = new Gitalk({
+      clientID: "8b4fccb08469da08eef3",
+      clientSecret: "db3ae463c7b5873b2b6ac5cefe88c37647059044",
+      repo: 'wlor0623.github.io',
+      owner: "wlor0623",
+      admin: ["wlor0623"],
+      id: md5(location.pathname),
+    })
   </script>
 </body>
 
