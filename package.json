@@ -1,0 +1,20 @@
+{
+  "name": "wlor0623.github.io",
+  "version": "1.0.0",
+  "description": "[GitHub](https://github.com/wlor0623/wlor0623.github.io.git)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "docsify serve ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlor0623/wlor0623.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlor0623/wlor0623.github.io/issues"
+  },
+  "homepage": "https://github.com/wlor0623/wlor0623.github.io#readme"
+}
