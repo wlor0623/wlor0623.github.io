@@ -8,6 +8,7 @@
 
 - [likeyunba](http://likeyunba.com/imgupload/)
 - [天云图床](https://img.vpsil.com/)
+
 ## 论坛社区
 
 - [v2ex](http://www.v2ex.com/)
@@ -39,7 +40,6 @@
 - [zhimap 思维导图](https://zhimap.com/auth)
 - [gitmind 思维导图](https://app.gitmind.cn/guest)
 - [在线录屏](https://recordscreen.io/)
-- [photopea 在线 ps](https://www.photopea.com/)
 - [m3u8 在线播放](http://webplayer.cc/?url=http%3A%2F%2Fivi.bupt.edu.cn%2Fhls%2Fbtv1hd.m3u8)
 - [字体识别](http://www.qiuziti.com/)
 - [图片无损放大](https://bigjpg.com/)
@@ -70,6 +70,18 @@
 - [img.top 图片压缩](https://img.top/)
 - [shrinkme](https://shrinkme.app/?s=e)
 - [remove 抠图](https://www.remove.bg/zh)
+- [photopea 在线 ps](https://www.photopea.com/)
+
+## 配色
+
+- [colorhunt 配色选择](https://colorhunt.co/)
+- [color-wheel 颜色生成器](https://color.adobe.com/zh/create/color-wheel)
+- [web 安全色](https://www.bootcss.com/p/websafecolors/)
+- [LOLCOLORS 配色](https://www.webdesignrankings.com/resources/lolcolors/)
+- [随机颜色配色](http://color.aurlien.net/)
+- [渐变配色 1](https://uigradients.com/#MonteCarlo)
+- [渐变配色 2](https://www.bestvist.com/css-gradient)
+- [中国色](http://zhongguose.com/)
 
 ## 视频处理
 
@@ -99,16 +111,27 @@
 - [免费 http 代理 2](http://www.66ip.cn/mo.php?tqsl=100)
 - [免费 http 代理 3](http://www.89ip.cn/tqdl.html?api=1&num=100&port=&address=&isp=)
 
-## UI 框架
+## 多端框架
 
 - [grace 多端一体框架(收费)](http://grace.hcoder.net/)
-- [lulu ui 静态 ui 框架](https://l-ui.com/content/about/design.html)
-- [vant 移动端](https://youzan.github.io/vant/#/zh-CN/)
+- [taro](https://taro.aotu.io/)
+- [uni-app](https://uniapp.dcloud.io/)
+- [flutter](https://flutterchina.club/)
+- [mpvue](http://mpvue.com/)
+- [Electron](https://www.electronjs.org/docs)
 
+## UI 框架
+
+- [lulu ui](https://l-ui.com/content/about/design.html)
+
+- [vant 移动端](https://youzan.github.io/vant/#/zh-CN/)
+- [elementui](https://element.eleme.cn/#/zh-CN)
 ## js 框架
 
 - [yox](https://yoxjs.github.io/yox/#/)
-
+- [koa](https://koa.bootcss.com/)
+- [express](https://www.expressjs.com.cn/)
+- [egg](https://eggjs.org/zh-cn/)
 ## 图片素材
 
 - [pexels 免费商用图](https://www.pexels.com/zh-cn/)
@@ -119,6 +142,12 @@
 - [unsplash](https://unsplash.com/)
 - [sucai 素材街](https://sucai.im/)
 - [彼岸 4k 壁纸](http://pic.netbian.com/)
+- [wallhaven](https://wallhaven.cc/)
+- [photock](photock)
+- [pakutaso](https://www.pakutaso.com/)
+- [泼辣有图](https://www.polayoutu.com/collections)
+- [isorepublic](https://isorepublic.com/)
+- [kaboompics](https://kaboompics.com/)
 
 ## 卡盟
 
@@ -132,6 +161,8 @@
 - [设计导航](https://hao.shejidaren.com/)
 - [25 学堂](https://www.25xt.com/works/apppsd2)
 - [码力全开](https://www.maliquankai.com/)
+- [站酷](https://www.zcool.com.cn/)
+- [学 ui](http://app.xueui.cn/)
 
 ## 音乐
 
@@ -185,8 +216,9 @@
 - [wickedCSS 动画](http://kristofferandreasen.github.io/wickedCSS/#)
 - [原点 loading 动画](https://nzbin.github.io/three-dots/)
 - [360° 动画](https://codepen.io/jakob-e/pen/WqmYxd)
-- [hover动画](http://ianlunn.github.io/Hover/#)
-- [css动画](http://vivify.mkcreative.cz/)
+- [hover 动画](http://ianlunn.github.io/Hover/#)
+- [css 动画](http://vivify.mkcreative.cz/)
+
 ## 动画
 
 - [loading 动画](https://loading.io/)
@@ -246,9 +278,13 @@
 ## 待受理
 
 - [待迁移笔记](https://didiheng.com/front/2019-09-05.html#prototype%E5%92%8Cconstructor)
+- [带钱一](https://github.com/Geekhyt/front-end-canteen/)
 - [地球仪 2](http://css-tricks.neatbang.com/)
-  [js](https://qishaoxuan.github.io/js_tricks/dom/)
+- [js](https://qishaoxuan.github.io/js_tricks/dom/)
 
 ## 技术文档
 
 - [微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/api/)
+
+- [免费英文字体](https://www.fontspace.com/)
+- [免费可商用自定义颜色图表库](https://undraw.co/illustrations)
