@@ -5,6 +5,8 @@
 - [js](/js/)
   - [图解 this 指向](/js/图解this指向)
   - [webrtc](/js/webrtc)
+  - [function](/js/function)
+  - [note 杂乱无章](/js/note)
 - [Vue](/Vue/)
   - [vuex](/Vue/vuex)
 - [文档](/doc/)
