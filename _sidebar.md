@@ -9,3 +9,4 @@
   - [vuex](/Vue/vuex)
 - [文档](/doc/)
   - [axios](/doc/axios)
+- [掘金小册](/掘金小册/)
