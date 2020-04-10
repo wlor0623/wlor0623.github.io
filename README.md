@@ -126,12 +126,14 @@
 
 - [vant 移动端](https://youzan.github.io/vant/#/zh-CN/)
 - [elementui](https://element.eleme.cn/#/zh-CN)
+
 ## js 框架
 
 - [yox](https://yoxjs.github.io/yox/#/)
 - [koa](https://koa.bootcss.com/)
 - [express](https://www.expressjs.com.cn/)
 - [egg](https://eggjs.org/zh-cn/)
+
 ## 图片素材
 
 - [pexels 免费商用图](https://www.pexels.com/zh-cn/)
@@ -270,6 +272,8 @@
 - [youtube 解析](http://okdownload.net/)
 - [包图解析](https://www.xtmrx.com/index)
 - [短视频解析](http://dspjx.com/)
+- [千图网解析](http://www.58piccc.com/)
+- [百度文库(z:627366533 m:820086)](http://doc110.com?z=627366533&m=820086)
 
 ## js 插件
 
