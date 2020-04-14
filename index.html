@@ -48,6 +48,11 @@
       notFoundPage: "404.md",
       plugins: [
         function (hook) {
+          var header = [
+            '<header>',
+            '<span><a href="javascript:history.back(-1)">返回</a></span>',
+            '</header>'
+          ].join('')
           var footer = [
             '<hr/>',
             '<footer>',
