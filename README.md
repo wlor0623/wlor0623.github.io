@@ -93,6 +93,7 @@
 - [各种格式文件转换 2](https://cn.office-converter.com/)
 - [各种格式文件转换 3](http://www.alltoall.net/)
 - [PDF 转换](https://lightpdf.cn/)
+- [在线视频压缩](https://www.apowersoft.cn/compress-video-online)
 
 ## autojs
 
